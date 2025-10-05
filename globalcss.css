@@ -1,0 +1,14 @@
+.camdiv{
+    right: 15px;
+    position: fixed;
+    text-align: center;
+    width: 150px;
+    z-index: 100;
+    border-radius: 50px;
+    bottom: 40px;
+    height: 140px;
+}
+
+html {
+  scroll-behavior: auto !important; 
+}
